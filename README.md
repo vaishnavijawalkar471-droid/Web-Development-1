@@ -1,2 +1,3 @@
 # Web-Development-1
-A basic web development project
+A basic web page for a photo gallery.
+ 
