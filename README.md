@@ -1,93 +1,88 @@
 # Web-Development-1
-📸 Photo Gallery Website
+# 📸 Photo Gallery Website
 
-A clean and responsive Photo Gallery website built using HTML & CSS, showcasing different photography categories like Nature, Portraits, Architecture, and an About section focused on Germany.
+A clean and responsive Photo Gallery website built using HTML and CSS, showcasing different photography categories like Nature, Portraits, Architecture, and an About section focused on Germany.
 
-This project is designed to highlight visual storytelling with a minimal UI and smooth navigation.
+---
 
-🌍 About the Project
+## 🌍 About the Project
 
-The Photo Gallery website is a static frontend project that displays curated images in a grid-based layout.
-It focuses on simplicity, aesthetics, and accessibility while maintaining a professional structure.
+This project is a static frontend photo gallery designed to display images in a visually appealing grid layout. It focuses on simplicity, smooth navigation, and clean UI while presenting photography as a storytelling medium.
 
-🖼️ Features
+---
 
-Responsive photo grid layout
+## 🖼️ Features
 
-Multiple gallery sections:
+- Responsive photo grid layout  
+- Multiple gallery sections:
+  - Home
+  - Nature
+  - Portraits
+  - Architecture
+  - About
+- Clean header and footer design  
+- Social media integration using Font Awesome icons  
+- External CSS styling for a modern look  
 
-Home
+---
 
-Nature
+## 🛠️ Tech Stack
 
-Portraits
+- HTML5  
+- CSS3  
+- Font Awesome  
 
-Architecture
+---
 
-About
+## 📂 Project Structure
 
-Clean header & footer design
-
-Social media integration (Font Awesome icons)
-
-Modern UI with external CSS styling
-
-🛠️ Tech Stack
-
-HTML5
-
-CSS3
-
-Font Awesome (Icons)
-
-📂 Project Structure
 Photo-Gallery/
 │
-├── Project1.html
-├── nature.html
-├── portraits.html
-├── architecture.html
-├── ABOUT.html
-├── nature.css
-├── images/
-│   ├── nature.1.jpg
-│   ├── nature.5.jpg
-│   ├── port4.jpeg
-│   ├── port6.jpg
-│   ├── architecture1.jpeg
-│   └── architecture3.jpg
-└── README.md
+├── Project1.html  
+├── nature.html  
+├── portraits.html  
+├── architecture.html  
+├── ABOUT.html  
+├── nature.css  
+├── nature.1.jpg  
+├── nature.5.jpg  
+├── port4.jpeg  
+├── port6.jpg  
+├── architecture1.jpeg  
+├── architecture3.jpg  
+└── README.md  
 
-🚀 How to Run the Project
+---
 
-Clone the repository
+## 🚀 How to Run
 
-git clone https://github.com/your-username/photo-gallery.git
+1. Clone the repository:
+   git clone https://github.com/your-username/photo-gallery.git
 
+2. Open the project folder in VS Code
 
-Open the folder in VS Code
+3. Open Project1.html in any web browser  
+   (or use Live Server for best results)
 
-Open Project1.html in your browser
-(or use Live Server for a better experience)
+---
 
-📍 Footer Information
+## 📍 Footer Details
 
-Location: Berlin, Germany
+- Location: Berlin, Germany  
+- Social Platforms: Facebook, Instagram, YouTube, LinkedIn  
 
-Social Media: Facebook, Instagram, YouTube, LinkedIn
+---
 
-📌 Future Improvements
+## 🔮 Future Enhancements
 
-Add JavaScript for image lightbox preview
+- JavaScript-based image lightbox
+- Improved responsiveness and animations
+- Accessibility improvements
+- Dynamic image loading
 
-Improve accessibility (alt text & ARIA labels)
+---
 
-Make gallery dynamic using backend or API
+## 📄 License
 
-Add animations and hover effects
-
-📄 License
-
-This project is for educational purposes.
+This project is created for educational purposes.  
 All images and content belong to their respective owners.
- 
