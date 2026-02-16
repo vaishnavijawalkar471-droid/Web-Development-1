@@ -5,7 +5,7 @@ header{
     width: 100%;
     box-shadow: 2px 2px 20px rgb(31, 69, 99);
     z-index: 10;
-    transition: all 0.1 ease;
+    transition: all 0.1 ease; 
 }
 
 .header-container{
